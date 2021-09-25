@@ -1,0 +1,13 @@
+/*Dokumen CSS*/
+
+	p, ol, ul {
+	font-size:18px;
+	}
+	
+	#all{ 
+	font-family:Vardana, Ariawal, Helvetica, sans-serif;
+	}
+	
+	.rgba {
+	background-color:rgba(192, 255, 229, 0.959);
+	}
